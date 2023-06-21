@@ -1,0 +1,13 @@
+.container{
+    padding-bottom: 20px;
+}
+ /* counters start */
+ .single{
+    padding: 50px 0;
+    background-color: #1199ff;
+    color: aliceblue;
+    border-radius: 5px;
+    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+ /* counters end */
